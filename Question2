@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+remote upstream repositories are the 'source of truth' repositories that you wish to contribute to. Your origin repository is what's present on your local directory or github profile, and is where you make your changes. The upstream is what you use to make your changes off, and where you commit your changes

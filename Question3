@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branch are different instances of the code base. They're used so that the main code base doesn't get corrupted
